@@ -14,6 +14,6 @@
     "parcelperform"
   ],
   "max_hours_no_events": 12,
-  "shipments_number_threshold": 500,
+  "shipment_number_threshold": 500,
   "exclude_shops_from_alerts": []
 }
