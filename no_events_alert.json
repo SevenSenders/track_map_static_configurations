@@ -15,5 +15,5 @@
   ],
   "max_hours_no_events": 12,
   "shipment_number_threshold": 500,
-  "exclude_shops_from_alerts": []
+  "exclude_shops_from_alerts": {}
 }
