@@ -1,13 +1,13 @@
 {
   "test_shops": [
-    "803",
-    "1",
-    "175",
-    "781",
-    "778",
-    "780",
-    "802",
-    "805"
+    803,
+    1,
+    175,
+    781,
+    778,
+    780,
+    802,
+    805
   ],
   "excluded_tracking_providers": [
     "shipment",
@@ -20,7 +20,7 @@
       "tracking_provider": "aftership",
       "carrier": "rhenus-group",
       "shops": [
-        "481"
+        481
       ]
     }
   ],
