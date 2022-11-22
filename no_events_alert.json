@@ -17,7 +17,6 @@
   "shipment_number_threshold": 100,
   "exclude_relations_from_alerts": [
     {
-      "tracking_provider": "aftership",
       "carrier": "rhenus-group",
       "shops": [
         481
