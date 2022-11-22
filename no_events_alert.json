@@ -14,7 +14,7 @@
     "parcelperform",
     "celeritas"
   ],
-  "max_hours_no_events": 12,
+  "max_hours_no_events": 24,
   "shipment_number_threshold": 500,
   "exclude_relations_from_alerts": {},
   "relation_active_deadline_days": 30
