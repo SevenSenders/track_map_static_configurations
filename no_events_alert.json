@@ -11,8 +11,6 @@
   ],
   "excluded_tracking_providers": [
     "shipment",
-    "aftership",
-    "parcelperform",
     "celeritas"
   ],
   "max_hours_no_events": 24,
