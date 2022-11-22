@@ -15,5 +15,6 @@
   ],
   "max_hours_no_events": 12,
   "shipment_number_threshold": 500,
-  "exclude_shops_from_alerts": {}
+  "exclude_relations_from_alerts": {},
+  "relation_active_deadline_days": 30
 }
