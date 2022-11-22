@@ -11,7 +11,8 @@
   ],
   "excluded_tracking_providers": [
     "aftership",
-    "parcelperform"
+    "parcelperform",
+    "celeritas"
   ],
   "max_hours_no_events": 12,
   "shipment_number_threshold": 500,
