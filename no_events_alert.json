@@ -1,4 +1,7 @@
 {
+  "max_hours_no_events": 24,
+  "shipment_number_threshold": 100,
+  "integration_active_deadline_days": 7,
   "test_shops": [
     803,
     1,
@@ -13,15 +16,27 @@
     "shipment",
     "celeritas"
   ],
-  "max_hours_no_events": 24,
-  "shipment_number_threshold": 100,
-  "exclude_relations_from_alerts": [
+  "excluded_relations": [
     {
       "carrier": "rhenus-group",
       "shops": [
         481
       ]
+    },
+    {
+      "carrier": "",
+      "shops": [
+        341,
+        786,
+        705,
+        924
+      ]
+    },
+    {
+      "carrier": "ppl",
+      "shops": [
+        253
+      ]
     }
-  ],
-  "relation_active_deadline_days": 7
+  ]
 }
