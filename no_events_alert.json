@@ -10,6 +10,7 @@
     "805"
   ],
   "excluded_tracking_providers": [
+    "shipment",
     "aftership",
     "parcelperform",
     "celeritas"
