@@ -28,3 +28,6 @@ excluded_relations:
       - 786
       - 705
       - 924
+  - carrier: posti
+    shops:
+      - 253
