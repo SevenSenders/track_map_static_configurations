@@ -22,7 +22,7 @@ excluded_relations:
   - carrier: rhenus-group
     shops:
       - 481
-  - carrier: royal-mail
+  - carrier: royal-mail # constant problems with royal mail
     shops:
       - 341
       - 786
@@ -30,4 +30,4 @@ excluded_relations:
       - 924
   - carrier: posti
     shops:
-      - 253
+      - 253 # has been faulty on aftership for ages, no one bats an eye
