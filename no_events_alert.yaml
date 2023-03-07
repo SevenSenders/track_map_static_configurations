@@ -31,3 +31,10 @@ excluded_relations:
   - carrier: posti
     shops:
       - 253 # has been faulty on aftership for ages, no one bats an eye
+  - carrier: ppl
+    shops:
+      - 253 # PPL CZ does not at aftership
+  - carrier: budbee
+    shops:
+      - 521 # Budbee webhook not configured for this shop
+
