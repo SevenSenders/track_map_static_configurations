@@ -16,7 +16,6 @@ test_shops:
 
 excluded_tracking_providers:
   - shipment
-  - celeritas
 
 excluded_relations:
   - carrier: rhenus-group
