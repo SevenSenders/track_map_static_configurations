@@ -17,6 +17,8 @@ test_shops:
 excluded_tracking_providers:
   - shipment
   - customs
+  - als
+  - ukp
 
 excluded_relations:
   - carrier: rhenus-group
