@@ -1,7 +1,7 @@
 ---
 
 max_hours_no_events: 24
-shipment_number_threshold: 100
+shipment_number_threshold: 200
 integration_active_deadline_days: 7
 test_shops:
   - 803
@@ -37,4 +37,8 @@ excluded_relations:
   - carrier: budbee
     shops:
       - 521 # Budbee webhook not configured for this shop
+  - carrier: gls-italy
+    shops:
+      - 341
+  
 
