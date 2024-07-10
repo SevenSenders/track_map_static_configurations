@@ -16,6 +16,7 @@ test_shops:
 
 excluded_tracking_providers:
   - shipment
+  - customs
 
 excluded_relations:
   - carrier: rhenus-group
