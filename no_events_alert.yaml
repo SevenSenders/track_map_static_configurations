@@ -13,6 +13,7 @@ test_shops:
   - 802
   - 805
   - 357
+  - 944 
 
 excluded_tracking_providers:
   - shipment
